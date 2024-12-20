@@ -50,7 +50,7 @@ The dataset includes 20 features and 1 target variable:
    - Classifying students into high, medium, and low performers.
 
 5. **Ensemble Methods:**
-   - Homogeneous ensemble models for improved prediction accuracy.
+   - Homogeneous and heterogeneous ensemble models with combination of Neural Network for improved prediction accuracy.
 
 ---
 
