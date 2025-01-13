@@ -52,6 +52,9 @@ The dataset includes 20 features and 1 target variable:
 5. **Ensemble Methods:**
    - Homogeneous and heterogeneous ensemble models with combination of Neural Network for improved prediction accuracy.
 
+6. **Neural Network Residual Correction:**
+   - Residual corrections on bagging model.
+
 ---
 
 ## 📊 **Results**
